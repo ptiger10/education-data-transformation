@@ -1,0 +1,245 @@
+DB0GR13N -- District 2013 Graduates: African American Count
+
+DB0GR13R -- District 2013 Graduates: African American Student Group %
+
+DA0GR13N -- District 2013 Graduates: All Students Count
+
+DA0GR13R -- District 2013 Graduates: All Students Group %
+
+D30GR13N -- District 2013 Graduates: Asian Count
+
+D30GR13R -- District 2013 Graduates: Asian Student Group %
+
+DH0GR13N -- District 2013 Graduates: Hispanic Count
+
+DH0GR13R -- District 2013 Graduates: Hispanic Student Group %
+
+DA0GM13R -- District 2013 Graduates: MINIMUM HS PGM All Students %
+
+DA0GM13N -- District 2013 Graduates: MINIMUM HS PGM All Students Count
+
+DI0GR13N -- District 2013 Graduates: Native American Count
+
+DI0GR13R -- District 2013 Graduates: Native American Student Group %
+
+D40GR13N -- District 2013 Graduates: Pacific Islander Count
+
+D40GR13R -- District 2013 Graduates: Pacific Islander Student Group %
+
+DA0GH13R -- District 2013 Graduates: RHSP/DAP All Students %
+
+DA0GH13N -- District 2013 Graduates: RHSP/DAP All Students Count
+
+DS0GR13N -- District 2013 Graduates: Special Ed Count
+
+DS0GR13R -- District 2013 Graduates: Special Ed Student Group %
+
+D20GR13N -- District 2013 Graduates: Two or More Races Count
+
+D20GR13R -- District 2013 Graduates: Two or More Races Student Group %
+
+DW0GR13N -- District 2013 Graduates: White Count
+
+DW0GR13R -- District 2013 Graduates: White Student Group %
+
+GROUP NAME -- Retention Rates by Grade
+
+Element Name - Description
+
+DPERRA1R -- District 2013 Retention: Regular Ed 01 Rate
+
+DPERRA2R -- District 2013 Retention: Regular Ed 02 Rate
+
+DPERRA3R -- District 2013 Retention: Regular Ed 03 Rate
+
+DPERRA4R -- District 2013 Retention: Regular Ed 04 Rate
+
+DPERRA5R -- District 2013 Retention: Regular Ed 05 Rate
+
+DPERRA6R -- District 2013 Retention: Regular Ed 06 Rate
+
+DPERRA7R -- District 2013 Retention: Regular Ed 07 Rate
+
+DPERRA8R -- District 2013 Retention: Regular Ed 08 Rate
+
+DPERRAKR -- District 2013 Retention: Regular Ed KG Rate
+
+DPERSA1R -- District 2013 Retention: Special Ed 01 Rate
+
+DPERSA2R -- District 2013 Retention: Special Ed 02 Rate
+
+DPERSA3R -- District 2013 Retention: Special Ed 03 Rate
+
+DPERSA4R -- District 2013 Retention: Special Ed 04 Rate
+
+DPERSA5R -- District 2013 Retention: Special Ed 05 Rate
+
+DPERSA6R -- District 2013 Retention: Special Ed 06 Rate
+
+DPERSA7R -- District 2013 Retention: Special Ed 07 Rate
+
+DPERSA8R -- District 2013 Retention: Special Ed 08 Rate
+
+DPERSAKR -- District 2013 Retention: Special Ed KG Rate
+
+GROUP NAME -- Student: Counts/Percents
+
+Element Name - Description
+
+DPETDISC -- District 2013 DAEP: Count
+
+DPETDISP -- District 2013 DAEP: Percent
+
+DPETBLAC -- District 2014 Student: African American Count
+
+DPETBLAP -- District 2014 Student: African American Percent
+
+DPETALLC -- District 2014 Student: All Students Count
+
+DPETASIC -- District 2014 Student: Asian Count
+
+DPETASIP -- District 2014 Student: Asian Percent
+
+DPETRSKC -- District 2014 Student: At Risk Count
+
+DPETRSKP -- District 2014 Student: At Risk Percent
+
+DPETECOC -- District 2014 Student: Econ Disadv Count
+
+DPETECOP -- District 2014 Student: Econ Disadv Percent
+
+DPETHISC -- District 2014 Student: Hispanic Count
+
+DPETHISP -- District 2014 Student: Hispanic Percent
+
+DPETLEPC -- District 2014 Student: LEP Count
+
+DPETLEPP -- District 2014 Student: LEP Percent
+
+DPETINDC -- District 2014 Student: Native American Count
+
+DPETINDP -- District 2014 Student: Native American Percent
+
+DPETNEDC -- District 2014 Student: Non-Educationally Disadv Count
+
+DPETNEDP -- District 2014 Student: Non-Educationally Disadv Percent
+
+DPETPCIC -- District 2014 Student: Pacific Islander Count
+
+DPETPCIP -- District 2014 Student: Pacific Islander Percent
+
+DPETTWOC -- District 2014 Student: Two or More Races Count
+
+DPETTWOP -- District 2014 Student: Two or More Races Percent
+
+DPETWHIC -- District 2014 Student: White Count
+
+DPETWHIP -- District 2014 Student: White Percent
+
+GROUP NAME -- Student: By Grade
+
+Element Name - Description
+
+DPETG01C -- District 2014 Student: 01 Count
+
+DPETG01P -- District 2014 Student: 01 Percent
+
+DPETG02C -- District 2014 Student: 02 Count
+
+DPETG02P -- District 2014 Student: 02 Percent
+
+DPETG03C -- District 2014 Student: 03 Count
+
+DPETG03P -- District 2014 Student: 03 Percent
+
+DPETG04C -- District 2014 Student: 04 Count
+
+DPETG04P -- District 2014 Student: 04 Percent
+
+DPETG05C -- District 2014 Student: 05 Count
+
+DPETG05P -- District 2014 Student: 05 Percent
+
+DPETG06C -- District 2014 Student: 06 Count
+
+DPETG06P -- District 2014 Student: 06 Percent
+
+DPETG07C -- District 2014 Student: 07 Count
+
+DPETG07P -- District 2014 Student: 07 Percent
+
+DPETG08C -- District 2014 Student: 08 Count
+
+DPETG08P -- District 2014 Student: 08 Percent
+
+DPETG09C -- District 2014 Student: 09 Count
+
+DPETG09P -- District 2014 Student: 09 Percent
+
+DPETG10C -- District 2014 Student: 10 Count
+
+DPETG10P -- District 2014 Student: 10 Percent
+
+DPETG11C -- District 2014 Student: 11 Count
+
+DPETG11P -- District 2014 Student: 11 Percent
+
+DPETG12C -- District 2014 Student: 12 Count
+
+DPETG12P -- District 2014 Student: 12 Percent
+
+DPETGEEC -- District 2014 Student: EE Count
+
+DPETGEEP -- District 2014 Student: EE Percent
+
+DPETGKNC -- District 2014 Student: KG Count
+
+DPETGKNP -- District 2014 Student: KG Percent
+
+DPETGPKC -- District 2014 Student: PK Count
+
+DPETGPKP -- District 2014 Student: PK Percent
+
+GROUP NAME -- Student Enrollment by Program
+
+Element Name - Description
+
+DPETBILC -- District 2014 Student: Bilingual/ESL Count
+
+DPETBILP -- District 2014 Student: Bilingual/ESL Percent
+
+DPETVOCC -- District 2014 Student: Career & Technical Education Count
+
+DPETVOCP -- District 2014 Student: Career & Technical Education Percent
+
+DPETGIFC -- District 2014 Student: Gifted & Talented Count
+
+DPETGIFP -- District 2014 Student: Gifted & Talented Percent
+
+DPETSPEC -- District 2014 Student: Special Ed Count
+
+DPETSPEP -- District 2014 Student: Special Ed Percent
+
+GROUP NAME -- Student Mobility
+
+Element Name - Description
+
+DPEMALLC -- District 2014 Student: 2013 Mobility Numerator
+
+DPEMALLP -- District 2014 Student: 2013 Mobility Percent
+
+GROUP NAME -- Underreported Students
+
+Element Name - Description
+
+DAUND13C -- District 2013 Underreported Students: Count
+
+DAUND13R -- District 2013 Underreported Students: Rate
+
+GROUP NAME -- PID Errors (Student)
+
+Element Name - Description
+
+DAPID14R -- District 2014 PID Error: Rate
+
+DAPID14N -- District 2014 PID Error: Z-PID Count
